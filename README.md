@@ -1,2 +1,2 @@
 # SDA-Lab
-Three tasks of sda.
+SDA Labs Tasks.
